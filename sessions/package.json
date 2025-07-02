@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-meme-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@open-wa/wa-automate": "^5.0.0",
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  }
+}
